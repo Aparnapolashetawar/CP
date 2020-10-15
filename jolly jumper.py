@@ -17,13 +17,6 @@ for k in range(len(lsub)-1):
             count+=1
             ls.append(z)
             continue
-
-        
-    
-
-
-                  
-        
 print(count)
 b=len(li)-2
 print(b)
